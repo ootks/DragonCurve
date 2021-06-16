@@ -1,1 +1,4 @@
 *.mp4
+ptclouds/*
+data/*
+data_colored/*
